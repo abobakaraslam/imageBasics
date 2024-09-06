@@ -2,7 +2,7 @@
 
 You can use below link to know how to create this app
 
-https://abobakar.kesug.com/courses/react/setting-up-environment/
+https://abobakar.kesug.com/courses/react/run-custom-code/
 
 **How to Run:**
 
