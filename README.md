@@ -2,7 +2,7 @@
 
 You can use below link to know how to create this app
 
-https://abobakar.kesug.com/courses/react/run-custom-code/
+https://abobakar.kesug.com/courses/react/run-custom-code/#ImageSectionBelow
 
 **How to Run:**
 
